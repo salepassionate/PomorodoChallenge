@@ -1,0 +1,152 @@
+
+   Sat Sep 28 2024 : 
+           Total Work time: 170,
+           Total break time: 61 (36 short break, 25 long break),
+           Total work session: 17
+                
+                
+   Sat Sep 28 2024 : 
+           Total Work time: 50,
+           Total break time: 20 (15 short break, 5 long break),
+           Total work session: 5
+                
+                
+   Wed Oct 02 2024 : 
+           Total Work time: 0,
+           Total break time: 0 (0 short break, 0 long break),
+           Total work session: 0
+                
+                
+   Wed Oct 02 2024 : 
+           Total Work time: 60,
+           Total break time: 120 (120 short break, 0 long break),
+           Total work session: 1
+                
+                
+
+   Wed Oct 02 2024 : 
+           Total Work time: 0,
+           Total break time: 0 (0 short break, 0 long break),
+           Total work session: 0
+                
+                
+   Sat Oct 05 2024 : 
+           Total Work time: 0,
+           Total break time: 0 (0 short break, 0 long break),
+           Total work session: 0
+                
+                
+   Sat Oct 05 2024 : 
+           Total Work time: 0,
+           Total break time: 0 (0 short break, 0 long break),
+           Total work session: 0
+                
+                
+   Sat Oct 05 2024 : 
+           Total Work time: 0,
+           Total break time: 0 (0 short break, 0 long break),
+           Total work session: 0
+                
+                
+   Sat Oct 05 2024 : 
+           Total Work time: 0,
+           Total break time: 0 (0 short break, 0 long break),
+           Total work session: 0
+                
+                
+   Sat Oct 05 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 0 seconds (0 short break, 0 long break),
+           Total work session: 0
+                
+                
+   Sat Oct 05 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 0
+                
+                
+   Sun Oct 06 2024 : 
+           Total Work time: 6 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 0 
+   Sun Oct 06 2024 : 
+           Total Work time: 9 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 0 
+   Sun Oct 06 2024 : 
+           Total Work time: 3 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 0 
+   Sun Oct 06 2024 : 
+           Total Work time: 12 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 11 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 5 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 3 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 49 seconds (49 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 16 seconds (16 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 60 seconds,
+           Total break time: 10 seconds (10 sbreak, 0 lbreak),
+           Total work session: 1 
+   Mon Oct 07 2024 : 
+           Total Work time: 130 seconds,
+           Total break time: NaN seconds (0 sbreak, NaN lbreak),
+           Total work session: 3 
+   Mon Oct 07 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Tue Oct 08 2024 : 
+           Total Work time: 0 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Tue Oct 08 2024 : 
+           Total Work time: 7 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Tue Oct 08 2024 : 
+           Total Work time: 195 seconds,
+           Total break time: NaN seconds (0 sbreak, NaN lbreak),
+           Total work session: 4 
+   Tue Oct 08 2024 : 
+           Total Work time: 5 seconds,
+           Total break time: 0 seconds (0 sbreak, 0 lbreak),
+           Total work session: 1 
+   Tue Oct 08 2024 : 
+           Total Work time: 60 seconds,
+           Total break time: 18 seconds (18 sbreak, 0 lbreak),
+           Total work session: 1 
